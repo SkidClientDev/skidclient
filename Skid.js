@@ -172,7 +172,7 @@ var DEVELOPERS = "@SkidClient";
 var CHANELOG = "Added Lot Of Stuff and remaked everything from B1 version!";
 
 //AutoUpdate
-var version = B3;
+var version = B4;
 //this version
 var url = new java.net.URL("https://raw.githubusercontent.com/SkidClientDev/skidclient/master/SkidB3.js");
 //newer version

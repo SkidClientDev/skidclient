@@ -4,7 +4,7 @@
 ///////////////////////////////////////////////////////
 //please do not steal code!                          //
 //please do not skid this client(rename this client) //
-//Skid B2                                            //
+//Skid B3                                            //
 //Made By @SkidClient                                //
 ///////////////////////////////////////////////////////
 //
@@ -174,9 +174,9 @@ var CHANELOG = "Added Lot Of Stuff and remaked everything from B1 version!";
 //AutoUpdate
 var version = B3;
 //this version
-var url = new java.net.URL("Link to your raw file");
+var url = new java.net.URL("https://raw.githubusercontent.com/SkidClientDev/skidclient/master/SkidB3.js");
 //newer version
-var url2 = new java.net.URL("Link to your raw file");
+var url2 = new java.net.URL("https://raw.githubusercontent.com/SkidClientDev/skidclient/master/Skid.js");
 
 var connection = url.openConnection();
 var inputStream = connection.getInputStream();

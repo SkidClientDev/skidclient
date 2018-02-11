@@ -4,7 +4,7 @@
 ///////////////////////////////////////////////////////
 //please do not steal code!                          //
 //please do not skid this client(rename this client) //
-//Skid B3                                            //
+//Skid B2                                            //
 //Made By @SkidClient                                //
 ///////////////////////////////////////////////////////
 //
@@ -172,7 +172,7 @@ var DEVELOPERS = "@SkidClient";
 var CHANELOG = "Added Lot Of Stuff and remaked everything from B1 version!";
 
 //AutoUpdate
-var version = B3;
+var version = "B3";;
 //this version
 var url = new java.net.URL("https://raw.githubusercontent.com/SkidClientDev/skidclient/master/SkidB3.js");
 //newer version

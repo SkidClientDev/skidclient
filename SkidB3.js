@@ -174,9 +174,9 @@ var CHANELOG = "Added Lot Of Stuff and remaked everything from B1 version!";
 //AutoUpdate
 var version = B3;
 //this version
-var url = new java.net.URL("Link to your raw file");
+var url = new java.net.URL("https://raw.githubusercontent.com/SkidClientDev/skidclient/master/latestskidclient.js");
 //newer version
-var url2 = new java.net.URL("Link to your raw file");
+var url2 = new java.net.URL("https://raw.githubusercontent.com/SkidClientDev/skidclient/master/skid.js");
 
 var connection = url.openConnection();
 var inputStream = connection.getInputStream();
